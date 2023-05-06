@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="json_tricks" />
+            <item index="1" class="java.lang.String" itemvalue="yacs" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="3" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="4" class="java.lang.String" itemvalue="EasyDict" />
+            <item index="5" class="java.lang.String" itemvalue="pytorch-lightning" />
+            <item index="6" class="java.lang.String" itemvalue="terminado" />
+            <item index="7" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="8" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="9" class="java.lang.String" itemvalue="test-tube" />
+            <item index="10" class="java.lang.String" itemvalue="torchnet" />
+            <item index="11" class="java.lang.String" itemvalue="torchvision" />
+            <item index="12" class="java.lang.String" itemvalue="torchsummary" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Demo_Seg.jaccard_similarity_score" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
